@@ -4,6 +4,7 @@ export const technicalProjects = [
     title: "Portfolio Website",
     image: "/projects/portfolio.png",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
+    link:"https://github.com/Simran-RM/Simran-Portfolio",
     description:
       "A responsive personal portfolio website showcasing my projects and skills.",
   },
