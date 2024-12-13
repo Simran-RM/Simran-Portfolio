@@ -11,7 +11,7 @@ import Certification from "./Certification";
 import myImage from "./assets/me2.jpeg";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
-import resumeData from "./resumeData.json";
+import resumeData from "./ResumeData.json";
 import resumePdf from "./assets/Simran_RM.pdf";
 
 
