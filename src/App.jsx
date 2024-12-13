@@ -8,11 +8,16 @@ import Projects from "./Projects";
 import { technicalProjects, artProjects } from "./projectsData";
 import Contact from "./Contact";
 import Certification from "./Certification";
-import myImage from "./assets/me2.jpeg";
+// import myImage from "./assets/me2.jpeg";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 import resumeData from "./ResumeData.json";
-import resumePdf from "./assets/Simran_RM.pdf";
+// import resumePdf from "./assets/Simran_RM.pdf";
+const myImage = "/assets/me2.jpeg";
+const resumePdf = "/assets/Simran_RM.pdf";
+
+
+
 
 
 const pageVariants = {

@@ -1,9 +1,15 @@
 import React, { useState } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import aws from './assets/logos/aws.png';
-import atlassian from './assets/logos/atlassian.png';
-import cisco_e from './assets/logos/cisco_e.png';
-import cisco_i from './assets/logos/cisco_i.png';
+// import aws from './assets/logos/aws.png';
+// import atlassian from './assets/logos/atlassian.png';
+// import cisco_e from './assets/logos/cisco_e.png';
+// import cisco_i from './assets/logos/cisco_i.png';
+
+const aws = "/assets/logos/aws.png";
+const atlassian = "/assets/logos/atlassian.png";
+const cisco_e = "/assets/logos/cisco_e.png";
+const cisco_i = "/assets/logos/cisco_i.png";
+
 
 const CertificationCard = ({ title, issuer, date, logo, badge, description, skills, isActive, currentIndex, totalCards }) => {
   const [isFlipped, setIsFlipped] = useState(false);
