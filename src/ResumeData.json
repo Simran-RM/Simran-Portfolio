@@ -5,19 +5,33 @@
   "phone": "+1 (703)-389-7074",
   "experience": [
     {
+      "title": "Software Developer",
+      "company": "EmphaSystem",
+      "date": "July 2024 - Present ",
+      "responsibilities": [
+        " - Contributed to the design and evolution of internal, business-critical web applications used in daily operations.",
+        " - Delivered features supporting large datasets, complex workflows, and time-sensitive decision-making.",
+        " - Partnered with product and engineering teams to ship reliable improvements to production systems."
+      ]
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "company": "George Mason University",
+      "date": "Feb 2024 - June 2024",
+      "responsibilities": [
+        " - Conducted research on real-world security breach data and system failure patterns.",
+        " - Analyzed experimental results to evaluate detection approaches and reliability concerns.",
+        " - Collaborated with research advisors to contribute data-driven insights into system trust and security."
+      ]
+    },
+    {
       "title": "Graduate Professional Assistant",
       "company": "George Mason University",
       "date": "Jan 2023 - Jun 2023",
       "responsibilities": [
-        "🚀 Mission: ",
-        "-  Engage with prospective graduate students to facilitate their transition into the College of Engineering and Computing, promoting key programs and events.",
-        "🔍 My Role:",
-        "- Collected, organized, and prepared inquiry/applicant data and RSVP/attendance data for events using TargetX Salesforce, ensuring data accuracy for recruitment campaigns.",
-        "- Created and managed event invitation campaigns for recruitment-related activities, including information sessions, admissions fairs, and outreach for the Bachelor's/Accelerated Master's (BAM) programs.",
-        "- Conducted individual and small group outreach to international students via virtual platforms like gradED Community, increasing engagement and awareness of the programs.",
-        "✨ What We Achieved:",
-        "- Enhanced event participation and applicant outreach efforts, contributing to increased awareness and enrollment in the College's programs.",
-        "- Streamlined data management processes, ensuring that recruitment events ran smoothly and that prospective students received timely information."
+        " - Supported graduate recruitment and academic operations for engineering programs.",
+        " - Coordinated data, outreach, and events to ensure accurate communication with prospective students.",
+        " - Worked closely with faculty and administrative teams to execute recruitment initiatives smoothly."
       ]
     },
     {
@@ -25,17 +39,9 @@
       "company": "GB Ventures",
       "date": "Mar 2019 - May 2021",
       "responsibilities": [
-        "🚀 Mission: ",
-        "-To digitalize property management in India and empower real estate professionals with cutting-edge technology.",
-        "🔍 My Role:",
-        "- Backend Development: Designed and developed RESTful APIs using Node.js and Express, seamlessly integrating MongoDB to handle large datasets and ensure high performance.",
-        "- Frontend Development: Built an intuitive React interface, optimizing user navigation and increasing engagement by 25%.",
-        "- Cloud Optimization: Implemented AWS CloudWatch for proactive system monitoring, reducing downtime by 40% and ensuring high availability.",
-        "- Automation: Automated the CI/CD pipeline with Jenkins and AWS services, accelerating deployment times and cutting errors by 50%.",
-        "✨ What We Achieved:",
-        "- Increased property manager productivity by 25%, enabling more strategic focus on business growth.",
-        "- Enhanced tenant satisfaction through transparency and improved system reliability.",
-        "- Achieved 80% unit test coverage, ensuring high-quality, maintainable code."
+        " - Contributed to the development of a multi-tenant web platform supporting business operations.",
+        " - Built and evolved features powering high-impact workflows such as payments, requests, and reporting.",
+        " - Worked with cross-functional teams as the product scaled in users and complexity."
       ]
     },
     {
@@ -43,14 +49,9 @@
       "company": "Cubiccode Digital Media LLP",
       "date": "Jan 2019 - Feb 2019",
       "responsibilities": [
-        "🚀 Mission: ",
-        "- Designed and developed a visually appealing website for a bakery, enhancing its digital presence and customer interaction.",
-        "🔍 My Role:",
-        "- Developed a responsive website using HTML, CSS, and JavaScript, ensuring smooth user experience across devices.",
-        "- Integrated a Drupal-based content management system, allowing the bakery to manage product updates and promotions easily.",
-        "✨ What We Achieved:",
-        "- Boosted customer engagement and sales, significantly enhancing the bakery’s online presence.",
-        "- Delivered a scalable platform that could easily grow with the business."
+        " - Contributed to the design and delivery of a client-facing website for a small business.",
+        " - Worked on improving usability, visual clarity, and content organization for customer-facing pages.",
+        " - Supported the launch of a maintainable web presence that enabled ongoing updates and growth."
       ]
     }
   ],
