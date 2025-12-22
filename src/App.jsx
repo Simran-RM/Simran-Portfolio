@@ -14,7 +14,7 @@ import Footer from "./Footer";
 import resumeData from "./ResumeData.json";
 // import resumePdf from "./assets/Simran_RM.pdf";
 const myImage = "/assets/me2.jpeg";
-const resumePdf = "/assets/SimranRM_Resume_SE";
+const resumePdf = "/assets/SimranRM_Resume_SE.pdf";
 
 
 
