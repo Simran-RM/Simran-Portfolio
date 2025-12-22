@@ -82,7 +82,7 @@ function AppContent() {
         </PageWrapper>
       </main>
       <Footer
-        phone="+1 (703)-389-7074"
+        phone="+91 8904291793"
         email="simran.rm6@gmail.com"
         name="Simran Manturgimath"
       />
