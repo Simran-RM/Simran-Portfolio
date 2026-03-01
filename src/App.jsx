@@ -59,13 +59,14 @@ function AppContent() {
   return (
     <div className="flex flex-col min-h-screen">
       <Navbar name="Simran Manturgimath" title="Software Developer" />
-      <main className="flex-grow">
+      <main className="flex-grow pt-16">
         <PageWrapper>
           <Routes location={location}>
             <Route
               path="/"
               element={
                 <Portfolio
+                  className="pt-4"
                   about="AWS Certified Cloud Practitioner and full-stack software engineer experienced in building scalable backend systems and intuitive web interfaces. I design and develop REST APIs using Python and JavaScript, implement containerised deployments and CI/CD pipelines, and build responsive frontends with React. I enjoy working across the stack — from architecting reliable backend services to crafting seamless user experiences — ensuring systems are efficient, maintainable, and production-ready. "
                   image={myImage}
                 />
