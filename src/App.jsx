@@ -66,7 +66,7 @@ function AppContent() {
               path="/"
               element={
                 <Portfolio
-                  about="An AWS Certified Cloud Practitioner and a full-stack software engineer passionate about building innovative web applications. With experience in JavaScript, React, Node.js, and AWS, I thrive on creating seamless user experiences and ensuring systems operate efficiently. "
+                  about="AWS Certified Cloud Practitioner and full-stack software engineer experienced in building scalable backend systems and intuitive web interfaces. I design and develop REST APIs using Python and JavaScript, implement containerised deployments and CI/CD pipelines, and build responsive frontends with React. I enjoy working across the stack — from architecting reliable backend services to crafting seamless user experiences — ensuring systems are efficient, maintainable, and production-ready. "
                   image={myImage}
                 />
               }
